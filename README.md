@@ -14,7 +14,7 @@ Then in your library folder add the ti-autobahn code (eg. for alloy project it i
 
 With this sample code you should see in the log the comunication made with a WAMP compatible server
 
-```
+```js
     // your WAMP compatible server
     var wsuri = 'ws://127.0.0.1:8080/';
 
